@@ -1,1 +1,1 @@
-"# Git_tutorial" 
+This is the sample README file.
